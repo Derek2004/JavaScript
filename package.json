@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsdom-global": "^3.0.2",
+    "tape": "^5.7.5"
+  }
+}
